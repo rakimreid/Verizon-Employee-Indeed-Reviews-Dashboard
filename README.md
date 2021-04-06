@@ -1,3 +1,4 @@
+![dashboard screenshot](https://user-images.githubusercontent.com/23224784/113781510-c96aa080-96fe-11eb-9cab-60e41e55cb82.jpg)
 # Verizon-Employee-Indeed-Reviews-Dashboard
 Verizon Voice of the Employee Dashboard w/ Text Analytics Using R's udpipe package
 
