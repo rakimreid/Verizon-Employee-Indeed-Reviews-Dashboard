@@ -1,4 +1,4 @@
-Verizon Employee Indeed Reviews Dashboard
+# Verizon Employee Indeed Reviews Dashboard
 __________________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/23224784/229157996-d8745fb4-6aa3-42f7-ae63-f3bcc76de88e.png)
@@ -15,8 +15,5 @@ The data was a part of AIHR's Dashboarding course. The dataset includes sentimen
 __________________________________________________________________________________________
 
 The Dashboard
-
-# Verizon-Employee-Indeed-Reviews-Dashboard
-Verizon Voice of the Employee Dashboard
 
 You can view the dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMjFlZjQ4YmMtMWNlMC00NDk3LTllODQtY2RlYmUyZDk2MjZlIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
