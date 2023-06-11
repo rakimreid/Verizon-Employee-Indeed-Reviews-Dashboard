@@ -6,7 +6,7 @@ ________________________________________________________________________________
 __________________________________________________________________________________________
 
 
-Background
+# Background
 
 Today, employees tend to post their views about their employer -- whether good or bad. Therefore, it could be worthwhile to examine how people feel about their employers. A dashboard presents a effective and simple method to examine employee sentiment. 
 
@@ -14,6 +14,6 @@ The data was a part of AIHR's Dashboarding course. The dataset includes sentimen
 
 __________________________________________________________________________________________
 
-The Dashboard
+# Dashboard
 
 You can view the dashboard here: https://app.powerbi.com/view?r=eyJrIjoiMjFlZjQ4YmMtMWNlMC00NDk3LTllODQtY2RlYmUyZDk2MjZlIiwidCI6ImU0NWI5N2RmLWJkYjAtNDExMC05OTkzLWE5YjRhOGNjY2NhMiJ9
